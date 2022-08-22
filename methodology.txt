@@ -1,0 +1,52 @@
+https://www.section.io/engineering-education/build-nextjs-with-mongodb-and-deploy-on-vercel/
+
+
+
+error ekak enwa nm hodata kiapanm mokadda ee kiyala 
+mama new project create kara kara dagaluwa but wadak naha 
+meeka mehemai 
+karanna oni node version eka update karan eka 
+
+node version eka parana eewata samahara aluth eewa download karanna baha 
+
+npm run dev
+
+
+
+
+========================================
+
+
+
+run kala gaman tyena api eka test karanna oninm 
+
+http://localhost:3000/api/hello
+kiyana eka browser eke gahanna 
+
+hello.js kiyala file ekak tyewna default 
+
+eeke tyenwa nm url eke 
+/hello kiyala gahanna tyenne 
+uda wage
+
+
+
+
+
+
+info 
+next js wala 
+script tag liyanna baha 
+so api 
+import Script from 'next/script'
+kiyala ekak import karala eeken thama script use karanne 
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,27 @@
+https://www.youtube.com/watch?v=wnibg0AIOq0
+me video eke tyenwa kohomada danne kiyala 
+one signal kiyala site ekakin ganne service eka 
+
+
+
+react next js wage eewata script directly daanna baha ne 
+so eeka amarui 
+sahenna dagalawwa mn 
+
+antimata 
+https://onesignal.com/blog/how-to-integrate-onesignal-into-a-next-app/
+kiyala site ekak hoya gattaha .
+
+
+
+
+meka wada kaleema naha 
+anthimata 
+<Script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></Script> 
+               kiyana eka 
+<head> eka athulin aran bosy eka athulata dAmma 
+anna badu wAda karanna gattha 
+
+[ meeka mata ahu une ahamben wage mama page eka inspect karala baluwa head eke adaala js file import eka tyenwada kiyala 
+baladdi thibe naha ]
+
